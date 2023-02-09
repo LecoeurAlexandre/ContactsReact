@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.contact-container {
+  border : solid;
+  border-radius: 0.5rem;
+  box-shadow: 10px 5px 5px rgb(167, 165, 165);
+  margin : 1rem auto;
+  padding-bottom: 0.5rem;
+  width: 50%;
+  background-color: rgb(248, 236, 220);
+}

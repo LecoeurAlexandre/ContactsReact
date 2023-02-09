@@ -13,8 +13,8 @@ export class List extends Component{
         adresse : {
             rue : "Rue du Bal des Laze",
             ville : "Nérac",
-            cp : "11111"
-        }
+            cp : "47600"
+            }
         },
         { 
         nom: "Berger", 
@@ -25,7 +25,7 @@ export class List extends Component{
             rue : "Rue du Paradis Blanc",
             ville : "Paris",
             cp : "75000"
-        }
+            }
         },
         { 
         nom: "Sardou", 
@@ -35,8 +35,8 @@ export class List extends Component{
         adresse : {
             rue : "Rue du Connemara",
             ville : "Dublin",
-            cp : "22222"
-        }
+            cp : "D08"
+            }
         }]
         }
     }
